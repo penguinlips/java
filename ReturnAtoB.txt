@@ -1,0 +1,17 @@
+initiate
+
+Project1.main(new String[0]);
+
+return value
+
+new newnew(tot).setVisible(true);
+
+function
+
+    String total;
+    newnew(String tot) {
+        initComponents();
+        this.total = tot;
+        txttot.setText(String.valueOf(total));
+        
+    }
