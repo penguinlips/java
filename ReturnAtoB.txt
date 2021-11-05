@@ -1,12 +1,12 @@
-initiate
+initiate (in file1)
 
 Project1.main(new String[0]);
 
-return value
+return value (in file2)
 
 new newnew(tot).setVisible(true);
 
-function
+function (in file1)
 
     String total;
     newnew(String tot) {
