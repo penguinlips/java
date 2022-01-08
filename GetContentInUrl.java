@@ -13,6 +13,7 @@ import java.net.URL;
 /**
  *
  * @author penguinlips
+ * https://zetcode.com/java/readwebpage/   (ReadWebPageEx worked)
  */
 public class ReadWebPageEx {
 
